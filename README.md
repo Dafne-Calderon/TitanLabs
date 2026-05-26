@@ -24,4 +24,4 @@ Tienda web e-commerce desarrollada con React + Vite.
 ## Instalación
 ```bash
 npm install
-npm run dev`typescript-eslint`](https://typescript-eslint.io) in your project.
+npm run dev
